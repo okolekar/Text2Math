@@ -1,0 +1,8 @@
+streamlit>=1.35.0
+python-dotenv>=1.0.1
+langchain
+langchain-community
+langchain-groq
+langchain-classic
+wikipedia>=1.4.0
+numexpr
