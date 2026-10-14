@@ -22,7 +22,7 @@ Model availability, account limits, and pricing are controlled by Groq and may c
 Clone the repository and move into the project directory:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/okolekar/Text2Math.git
 cd <repository-directory>
 ```
 
