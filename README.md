@@ -23,7 +23,7 @@ Clone the repository and move into the project directory:
 
 ```bash
 git clone https://github.com/okolekar/Text2Math.git
-cd <repository-directory>
+cd .
 ```
 
 Create and activate a virtual environment:
